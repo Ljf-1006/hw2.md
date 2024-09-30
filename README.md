@@ -1,3 +1,3 @@
 # hw2.md
 Gatta
-![Gatta](hw2gatta "Gatta")
+![Gatta](hw2gatta.png "Gatta")
