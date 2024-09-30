@@ -2,4 +2,4 @@
 ## Gatta
 ![Gatta](hw2gatta,png.png "Gatta")
 ##Pert
-![Pert](Pert.png "Pert")
+![Pert](hw2Pert.png "Pert")
