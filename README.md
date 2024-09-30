@@ -1,3 +1,3 @@
 # hw2.md
 Gatta
-![Gatta](hw2gatta "gatta")
+![Gatta](hw2gatta "Gatta")
